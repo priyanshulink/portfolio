@@ -2,7 +2,7 @@
 
 A modern, interactive macOS-inspired portfolio website built with **React + Vite**. Features draggable windows, a terminal CLI, and seamless social media integration.
 
-**🌐 Live Demo:** [https://portfolio-krcb.onrender.com](https://portfolio-krcb.onrender.com)
+**🌐 Live Demo:** [https://portfolio-krcb.onrender.com](https://portfolio-v2-ut4z.onrender.com/)
 
 ---
 
